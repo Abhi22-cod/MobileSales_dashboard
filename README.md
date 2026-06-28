@@ -1,5 +1,3 @@
-# MobileSales_dashboard
-
 # 📱 Mobile Sales Dashboard – Power BI
 
 ## Overview
