@@ -174,21 +174,6 @@ The dataset contains approximately **3,835 transactions** with the following att
 
 ---
 
-## 📂 Project Structure
-
-
-📁 Mobile Sales Dashboard
-│
-├── Mobile Sales Dashboard.pbix
-├── Mobile Sales Data.xlsx
-├── Dashboards/
-│   ├── Dashboard.png
-│   ├── MTD Report.png
-│   └── SPLY Report.png
-└── README.md
-
-
----
 
 ## 📌 How to Use
 
@@ -215,7 +200,7 @@ The dataset contains approximately **3,835 transactions** with the following att
 
 ## 👨‍💻 Author
 
-**Abhilash**
+** Divvela Abhilash**
 
 **Project:** Mobile Sales Dashboard using Power BI
 
